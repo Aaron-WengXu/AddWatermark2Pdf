@@ -1,4 +1,4 @@
-# AddWatermarker2Pdf
+# AddWatermark2Pdf
 add watermark, texts, etc., to pdf
 
 Two Python dependencies are needed.
